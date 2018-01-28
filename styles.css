@@ -64,13 +64,10 @@ nav a {
 
 /* MAIN */
 
-.search-area {
+main {
   margin: 0 auto;
   width: 600px;
   text-align: center;
-}
-
-.search-area img {
   padding-top: 150px;
 }
 
